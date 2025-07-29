@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WuJI2W9zyDUeQInOYW2lqZm0zp90F0/CRyY0FbqAmFc=",
+  "Source": "TicketingSystemAPI",
+  "BasePath": "_content/TicketingSystemAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
